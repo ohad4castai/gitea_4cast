@@ -1,0 +1,7 @@
+﻿style(ui): update branding assets and logos
+
+- Replaced default Gitea logos with custom branding assets
+- Updated favicons, apple touch icons, and SVGs
+- Modified templates to use the new branding
+
+Assisted-by: Antigravity:Gemini 3.1 Pro (High)
